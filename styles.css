@@ -1,0 +1,24 @@
+ @import url('https://fonts.googleapis.com/css2?family=Handjet:wght@200&family=Poppins:ital,wght@1,300&display=swap');
+
+*{
+margin:10;
+padding:10;
+}
+
+body
+{
+    font-family: 'Poppins', sans-serif;
+    background-color: aqua;
+}
+
+h1{
+    color: brown;
+}
+h3{
+    color: crimson;
+}
+
+img{
+    height: 240px;
+    width: 1080;
+}
